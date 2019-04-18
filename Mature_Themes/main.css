@@ -1,0 +1,37 @@
+.app{
+    color: whitesmoke;
+    background-image: url("/pictures/full-moon-august.jpg");
+    height: 100vh;
+    width: 100vw;
+
+
+    
+}
+
+.app.beaming-sun{
+    color: red;
+    background-image: url("/pictures/sky-in-the-flames.jpg");   
+    height: 100vh;
+    width: 100vw;
+}
+
+.toggle-button {
+    background: orange;
+    color:red;
+    font-size: 2em;
+    font-style: normal;
+}
+ 
+.toggle-button.switch {
+    background: black;
+    color:gold;
+    font-size: 2em;
+    font-style: italic;
+}
+/* .header {
+
+
+} */
+
+
+
